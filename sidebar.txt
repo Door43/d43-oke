@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oke:home|Door43 (oke)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oke|d43-oke repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oke/archive/master.zip|d43-oke.zip]]
+
+**Recent Changes**
+{{changes>ns = oke}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oke|Ethnologue data]]
+
